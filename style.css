@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0B244A;
+  color: #FFF;
+  margin: 0;
+}
+
+.main-container {
+  width: 90%;
+  margin: 5% 5% 0 5%;
+}
+
+.sticky-container {
+  position: fixed;
+  width: 50%;
+}
+
+.name {
+  width: 80%;
+  font-size: xxx-large;
+}
+
+.kumbh-sans-name {
+  font-family: "Kumbh Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "YOPQ" 300;
+}
+
+.status {
+  width: 50%;
+  font-size: xx-large;
+}
+
+.kumbh-sans-status {
+  font-family: "Kumbh Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "YOPQ" 300;
+}
+
+.intro {
+  width: 50%;
+  font-size: x-large;
+}
+
+.kumbh-sans-intro {
+  font-family: "Kumbh Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "YOPQ" 300;
+}
+
+.refs {
+  font-size: large;
+}
+
+.kumbh-sans-refs {
+  font-family: "Kumbh Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "YOPQ" 300;
+}
+
+.scrollable-container {
+  padding-left: 50%;
+  width: 50%;
+}
+
+.description {
+}
+
+.kumbh-sans-description {
+  font-family: "Kumbh Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "YOPQ" 300;
+}
